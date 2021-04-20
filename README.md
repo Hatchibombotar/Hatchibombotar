@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Terrible Dev. Everything I write is spagetti.
+
 You can view my work [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <!--
