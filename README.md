@@ -1,16 +1,26 @@
-### Hi there 👋
+## Top Projects
+- [Minecraft Add-ons - Lots of small-scale bedrock addons](https://mcpedl.com/user/hatchibombotar/)
 
-<!--
-**Hatchibombotar/Hatchibombotar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Hoax Shader - Minecraft 1.16+ texture 'shaders'](https://mcpedl.com/hoax-shader/)
 
-Here are some ideas to get you started:
+- [Minicrafter Maker - 2D character creator](https://hatchibombotar.com/minicrafter-maker/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Regolith Filters - Work on regolith filters (addon modifying scripts)](https://github.com/Hatchibombotar/useful-regolith-filters)
+
+- [Other Projects - My other projects on Github](https://github.com/Hatchibombotar?tab=repositories)
+
+
+## Skills
+- JS/HTML/CSS - Advanced
+
+- SolidJS - Intermediate
+
+- Python - Intermediate
+
+- Minecraft Addons - Expert
+
+
+## Contact
+- Discord - hatchibombotar#3794
+
+- Email - hatchibombotar.mc@gmail.com
