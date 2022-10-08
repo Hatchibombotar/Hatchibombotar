@@ -1,4 +1,4 @@
-## Top Projects
+## Projects
 - [Minecraft Add-ons - Lots of small-scale bedrock addons](https://mcpedl.com/user/hatchibombotar/)
 
 - [Hoax Shader - Minecraft 1.16+ texture 'shaders'](https://mcpedl.com/hoax-shader/)
